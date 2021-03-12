@@ -12,6 +12,6 @@ pandas>=0.19
 flasgger==0.9.4
 streamlit
 Pillow
-
+opencv-python 4.5.1.48
 
 
